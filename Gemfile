@@ -86,6 +86,7 @@ group :development, :test do
   gem "pry-rescue"
   gem "pry-byebug"
 
+  gem 'rb-readline'
   ################################################################################
   # Color console output
   gem "rainbow"
